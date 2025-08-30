@@ -41,5 +41,5 @@ This is my Computer Laboratory Project built with **PHP**, **MySQL**, and a **Sp
 ![Dashboard](screenshots/dashboard.png)  
 *Dashboard example.*
 
-![Report Page](screenshots/report.png)  
+![Report Page](screenshots/json.png)  
 *Reports via API.*
