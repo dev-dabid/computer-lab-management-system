@@ -38,8 +38,38 @@ This is my Computer Laboratory Project built with **PHP**, **MySQL**, and a **Sp
 
 ## Screenshots
 
+![Java App *Not Mine*](screenshots/1.java-app.png)  
+*Java App example.*
+
+![Java App *Not Mine*](screenshots/2.java-app.png)  
+*Java App example.*
+
 ![Dashboard](screenshots/dashboard.png)  
 *Dashboard example.*
+
+![Create-Lab](screenshots/create-lab.png)  
+*Laboratory example.*
+
+![Laboratory](screenshots/laboratory.png)  
+*Laboratory example.*
+
+![Computers](screenshots/computers.png)  
+*Computers example.*
+
+![Create Peripheral](screenshots/create-peripherals.png)  
+*Computers example.*
+
+![Report](screenshots/report.png)  
+*Report example.*
+
+![Status](screenshots/status.png)  
+*Status example.*
+
+![Staff](screenshots/staff.png)  
+*Staff example.*
+
+![Logs](screenshots/logs.png)  
+*Logs example.*
 
 ![Report Page](screenshots/json.png)  
 *Reports via API.*
