@@ -56,7 +56,7 @@ This is my Computer Laboratory Project built with **PHP**, **MySQL**, and a **Sp
 ![Computers](screenshots/computers.png)  
 *Computers example.*
 
-![Create Peripheral](screenshots/create-peripherals.png)  
+![Create Peripheral](screenshots/create-peripheral.png)  
 *Computers example.*
 
 ![Report](screenshots/report.png)  
